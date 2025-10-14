@@ -9,7 +9,7 @@
 ## 🧠 **Tecnologías y Herramientas**
 - 💻 **Lenguajes:** Python | C++ | Java (básico)  
 - 🗃️ **Bases de datos:** SQL Server | PostgreSQL  
-- ⚙️ **Herramientas:** Git | GitHub | Visual Studio | Trello | Notion  
+- ⚙️ **Herramientas:** Git | GitHub | Visual Studio
 - 🌐 **Infraestructura:** Active Directory | Redes | Soporte IT  
 - 🚀 **Metodologías:** Scrum | Desarrollo Ágil  
 
