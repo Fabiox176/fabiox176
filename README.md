@@ -17,14 +17,14 @@
 
 ## 📚 **Proyectos Destacados**
 
-### 🔹 [Taller Mecánico (ERP Académico)](https://github.com/fabiox176/taller-mecanico-erp)
+### 🔹 [Taller Mecánico (ERP Académico)](https://github.com/Fabiox176/Taller-mecanico-titulacion)
 Sistema de gestión para talleres mecánicos: clientes, servicios, stock y roles de usuario.  
 **Tecnologías:** SQL Server, C++, POO, consultas SQL para reportes.  
 **Logro:** Reducción significativa de tiempos administrativos.
 
 ---
 
-### 🔹 [Sistema ABM - Higiene y Seguridad](https://github.com/fabiox176/abm-higiene-seguridad)
+### 🔹 [Sistema ABM - Higiene y Seguridad](https://github.com/melb96/SistemaGAL)
 Desarrollo académico para la cátedra *Paradigmas y Lenguajes III (UNLaR, 2024)*.  
 **Tecnologías:** Python, PostgreSQL, POO, metodologías ágiles (Scrum).  
 **Funcionalidades:** gestión de accidentes laborales, validación de usuarios, reportes.
