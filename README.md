@@ -37,17 +37,6 @@ Me interesa seguir creciendo en **infraestructura, administración de sistemas, 
 
 ## 🚀 Proyectos destacados
 
-### 👶 [Creciendo Juntxs — Sistema de Gestión para Guardería](https://github.com/melb96/creciendo-juntxs)
-Proyecto académico desarrollado con **Java, Spring Boot y Thymeleaf**, orientado a la gestión de infantes, tutores, salas, asistencias y monitoreo.
-
-Mis principales contribuciones incluyen:
-- Integración de **cámara IP TP-Link Tapo C310** mediante **MediaMTX** para visualización desde la aplicación web.
-- Validación de acceso al monitoreo según **rol, sala y consentimiento de cámara**.
-- Implementación de un **historial diario de actividades del infante** con trazabilidad de ingresos, cambios de estado, alertas y egresos.
-- Pruebas funcionales y validación del build mediante Maven.
-
-🔗 [PR #1 — Integración de cámara IP](https://github.com/melb96/creciendo-juntxs/pull/1) · [PR #2 — Control de acceso al monitoreo](https://github.com/melb96/creciendo-juntxs/pull/2) · [PR #3 — Historial diario de actividades](https://github.com/melb96/creciendo-juntxs/pull/3)
-
 ### 🔧 [Taller Mecánico — Sistema de Gestión](https://github.com/Fabiox176/Taller-mecanico-titulacion)
 Sistema académico para gestión de **clientes, servicios, productos, stock, ventas y reportes**.
 
