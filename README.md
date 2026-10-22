@@ -1,75 +1,52 @@
-<h1 align="center">👋 Hola, soy Fabio Renee Romero</h1>
-<h3 align="center">System Administrator Jr · Infraestructura IT · Active Directory · Redes · SQL</h3>
+# Fabio Renee Romero
+
+**SysAdmin Jr / IT Support · Infraestructura IT · Automatización · SQL Server**
 
 Soy **Analista Universitario en Sistemas** y estudiante avanzado de la **Licenciatura en Sistemas de Información** en la Universidad Nacional de La Rioja (UNLaR), Argentina.
 
-Actualmente trabajo como **System Administrator Jr / IT Support en Karatex · Colortex**, participando en la administración y soporte de infraestructura IT en entornos productivos: **Active Directory, Windows Server, redes LAN/WAN, SQL Server, ERP, soporte L2/L3, análisis de logs y automatización de tareas**.
+Trabajo en **Karatex · Colortex** como **System Administrator Jr / IT Support**, participando en la administración y el soporte de infraestructura IT en entornos productivos. Mi foco está en resolver incidencias, analizar registros y automatizar tareas operativas.
 
-Me interesa seguir creciendo en **infraestructura, administración de sistemas, automatización y tecnologías Cloud/DevOps**, combinando una mirada técnica con análisis y mejora de procesos.
+## Experiencia actual
 
----
+- Administración y soporte de **Windows Server y Active Directory**: usuarios, accesos y políticas de grupo (GPO).
+- Diagnóstico de incidencias de **equipos, redes LAN/WAN y servicios IT**.
+- Soporte de **SQL Server y sistemas ERP**, consultas y generación de reportes.
+- Análisis de **logs de Windows y comportamiento de servicios** para investigar fallas.
+- Automatización y procesamiento de información con **PowerShell y Python**.
 
-## 🛠️ Tecnologías y herramientas
+## Proyectos públicos
 
-### 🖥️ Infraestructura y sistemas
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+### [Taller Mecánico — Sistema de Gestión](https://github.com/Fabiox176/Taller-mecanico-titulacion)
 
-### 🗃️ Bases de datos y datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Proyecto académico de titulación para gestionar **clientes, servicios, productos, stock, ventas y reportes**.
 
-### 💻 Desarrollo y automatización
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Tecnologías:** Python, SQLite y PyInstaller.
+- **Disponible para consultar:** manuales de usuario y procesos, ejecutable para Windows y base de datos de ejemplo.
+- **Alcance público:** documentación y demostración funcional; el código fuente original no está incluido.
 
----
+### [Sistema GAL — Gestión de Accidentes Laborales](https://github.com/melb96/SistemaGAL)
 
-## 🚀 Proyectos destacados
+Proyecto académico desarrollado en equipo para registrar **accidentes laborales, empleados, motivos y zonas del cuerpo afectadas**.
 
-### 🔧 [Taller Mecánico — Sistema de Gestión](https://github.com/Fabiox176/Taller-mecanico-titulacion)
-Sistema académico para gestión de **clientes, servicios, productos, stock, ventas y reportes**.
+- **Tecnologías:** Java, PostgreSQL, Swing y JDBC.
+- **Disponible para consultar:** código fuente, modelo de datos y documentación de instalación y uso.
+- **Participación:** integrante del equipo de desarrollo; el repositorio original está alojado en la cuenta de un compañero.
 
-**Stack:** Python · SQLite · PyInstaller  
-Incluye documentación funcional, manuales y una versión ejecutable de demostración para Windows.
+## Tecnologías y herramientas
 
-### 🦺 [Sistema GAL — Gestión de Accidentes Laborales](https://github.com/melb96/SistemaGAL)
-Sistema ABM académico para registrar y administrar información relacionada con **accidentes laborales, empleados, motivos y zonas del cuerpo afectadas**.
+| Área | Herramientas |
+| --- | --- |
+| Infraestructura y redes | Windows Server, Active Directory, GPO, pfSense, TrueNAS |
+| Automatización | PowerShell, Python |
+| Datos y reportes | SQL Server, Excel, Power BI |
+| Desarrollo de proyectos | Java, PostgreSQL, SQLite, Spring Boot, Thymeleaf, Git y GitHub |
 
-**Stack:** Java · PostgreSQL · Swing · JDBC · NetBeans
+## Formación y orientación
 
----
+- **Analista Universitario en Sistemas** — UNLaR.
+- **Licenciatura en Sistemas de Información** — UNLaR, estudiante avanzado.
+- Interés en profundizar en **administración de sistemas, automatización y tecnologías Cloud/DevOps**.
 
-## 💼 Qué hago actualmente
+## Contacto
 
-- Administración y soporte de **infraestructura IT en entornos productivos**.
-- Gestión de **Active Directory, usuarios, accesos, GPO y Windows Server**.
-- Diagnóstico y resolución de **incidencias L2/L3**.
-- Administración y soporte sobre **SQL Server y sistemas ERP**.
-- Análisis de **logs, fallas y comportamiento de servicios**.
-- Automatización de tareas y procesamiento de información con **Python y PowerShell**.
-- Generación de reportes y análisis con **Excel y Power BI**.
-
----
-
-## 🎓 Formación
-
-- **Licenciatura en Sistemas de Información** — UNLaR · En curso
-- **Analista Universitario en Sistemas** — UNLaR
-
----
-
-## 📫 Contacto
-
-📧 [romerofabio176@gmail.com](mailto:romerofabio176@gmail.com)  
-🔗 [LinkedIn — Fabio Renee Romero](https://www.linkedin.com/in/fabiox176)
+[LinkedIn](https://www.linkedin.com/in/fabiox176) · [Correo electrónico](mailto:romerofabio176@gmail.com)
